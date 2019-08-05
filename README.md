@@ -25,12 +25,15 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 
 - [spring-boot-hello](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-hello)：Spring Boot 2.0  Hello World 示例
 - [spring-boot-banner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-banner)：Spring Boot 定制 Banner 示例
-- [spring-boot-docker](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-banner)：使用 Docker 部署 Spring Boot 示例
+- [spring-boot-docker](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-docker)：使用 Docker 部署 Spring Boot 示例
 - [dockercompose-springboot-mysql-nginx](https://github.com/ityouknow/spring-boot-examples/tree/master/dockercompose-springboot-mysql-nginx) ：Docker Compose + Spring Boot + Nginx + Mysql 示例  
 - [spring-boot-commandLineRunner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-commandLineRunner) ：Spring Boot 使用 commandLineRunner 实现项目启动时资源初始化示例  
 - [spring-boot-web-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web-thymeleaf) ：Spring Boot 使用 thymeleaf 实现布局、验参、增删改查示例    
 - [spring-boot-memcache-spymemcached](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-memcache-spymemcached) ：Spring Boot 使用 spymemcached 集成  memcache 示例
 - [spring-boot-webflux](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-webflux) ：Spring Boot webflux 示例
+- [spring-boot-elasticsearch](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-elasticsearch) ：Spring Boot elasticsearch 示例
+- [spring-boot-swagger](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-swagger) ：Spring Boot swagger2 示例
+- [spring-boot-mybatis-plus](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-plus) ：Spring Boot 集成 MyBatis Plus 示例
 
 **参考文章**
 
@@ -47,9 +50,11 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [Spring Boot 2 (十)：Spring Boot 中的响应式编程和 WebFlux 入门](http://www.ityouknow.com/springboot/2019/02/12/spring-boot-webflux.html) 
 
 
-## 下方示例已经全部升级到2.X，可关注下方公号查看。
+## 下方示例已经全部升级到 2.X，可关注下方公号查看。
 
-![](http://www.itmind.net/assets/images/java.jpg)
+![](http://www.ityouknow.com/assets/images/java.jpg)
+
+另外关注后，回复：java 获取超过10000+人领取的 Java 知识体系/面试必看资料。
 
 **示例代码**
 
